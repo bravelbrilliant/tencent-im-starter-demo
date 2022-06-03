@@ -3,8 +3,8 @@ server:
 
 tengxunyun:
   im:
-    sdkAppId: 1400488038
+    sdkAppId: xxxxxxxxx
     adminName: administrator
-    priKey: 59156f9b8d6af2dc897299880c03b75bedad34d95eb8e74aa1adb297d96a61f5
+    priKey: xxxxxxxxxx
     baseUri: https://console.tim.qq.com/v4/
     userSigExpiration: 604800
